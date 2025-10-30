@@ -1,2 +1,8 @@
-EV Persona Generator: Given a user's budget, daily distance, charging access and city type,
-recommend 3 EV models that best match their needs and explain why (using Generative AI).
+EV Persona Generator
+
+Problem Statement:
+To build an AI-powered system that recommends suitable Electric Vehicles (EVs) to users
+based on their preferences such as budget, daily travel distance, charging accessibility,
+and city type. The system will also use Generative AI (OpenAI / Gemini API) to explain
+why each EV was recommended, helping users make eco-friendly and data-driven decisions.
+
