@@ -1,0 +1,2 @@
+EV Persona Generator: Given a user's budget, daily distance, charging access and city type,
+recommend 3 EV models that best match their needs and explain why (using Generative AI).
