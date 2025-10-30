@@ -1,2 +1,6 @@
-EV Persona Generator
-A Generative-AI powered recommender that suggests the best electric vehicles for a user based on budget, daily distance, charging preferences and city type. Built with Python, a simple recommender and a GenAI explanation layer.
+# EV Persona Generator 🚗⚡
+
+A Generative AI-powered project that recommends the best Electric Vehicles for users
+based on their lifestyle and budget. Combines Machine Learning for EV insights and
+Generative AI for personalized chatbot-style recommendations. Built using Python,
+Pandas, Scikit-learn, Streamlit, and OpenAI API.
